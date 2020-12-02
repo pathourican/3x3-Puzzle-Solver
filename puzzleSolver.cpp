@@ -3,8 +3,6 @@
   pjh4as
   11/19/2020
   puzzleSolver.cpp
-
-  Source: Professor Floryan's recorded lecture from 11/18 at 11:00 AM.
 */
 
 #include <iostream>
